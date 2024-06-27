@@ -17,8 +17,10 @@ The repository contains organized code examples and explanations covering variou
 ## How to Use
 Each concept is accompanied by clear and concise code examples that demonstrate its implementation in C++. Feel free to explore, modify, and use the code for your learning and development purposes.
 
-To enhance your learning experience, I have also included all the resources link 
+To enhance your learning experience, I have also included all the resources link.
+
 YT link : https://youtu.be/mlIUKyZIUUU?si=5jO08BLgqjBbctaM
+
 GFG link: https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/
 
 ## Acknowledgments
