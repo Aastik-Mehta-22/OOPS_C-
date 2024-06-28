@@ -26,13 +26,14 @@ class Student{
 
 int main()
 {
-    Teacher t1;
+    Teacher t1; // t1 is a object 
     t1.name = "Aastik";
     t1.subject = "C++";
     t1.dept = "Computer Science";
     t1.salary= 25000;
 
     cout<<t1.name<<endl;
+    cout<<t1.salary<<endl;
     
 
     return 0;
