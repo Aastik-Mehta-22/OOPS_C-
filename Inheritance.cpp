@@ -44,7 +44,7 @@ int main()
     s1.rollno = 1234;
 
     s1.getInfo();
-    // first parent class constructor then student constructor then getinfo
+    // first parent class constructor then student constructor then getinfo // Flow of constructor while making the object
     // and in case of destructor firstly child destructor called then parent destructor called
     return 0;
 }
